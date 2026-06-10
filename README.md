@@ -70,7 +70,7 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vlahadiqa" target="_blank">
+  <a href="https://linkedin.com/in/vlahadiqa-r-k-w-03670b3aa" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/vlahadiqa_" target="_blank">
