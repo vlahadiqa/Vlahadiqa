@@ -56,17 +56,19 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 - Microservice architecture: React + Express.js + FastAPI + Streamlit
 - Live: [modalin-app-eta.vercel.app](https://modalin-app-eta.vercel.app)
 
-#### 🌾 [Smart Rice Detector](https://github.com/vlahadiqa/SAFE-GRAIN-BERAS)
-> Rice quality detection using Computer Vision.
-- Computer Vision model to analyze grain characteristics, defects, and purity
-- Real-time classification of rice quality grades based on visual features
-- Interactive dashboard built with HTML5, CSS3, and JavaScript for analysis results
+#### 🌾 [Smart Rice Detector](https://safe-grain-beras.vercel.app)
+> AI-powered rice quality analysis system using YOLOv8, FastAPI, and React.
+- Custom YOLOv8 computer vision model to identify and classify rice grains (*utuh*, *pecah*, and *benda asing*)
+- Real-time interactive dashboard built with React, Vite, Tailwind CSS, and Recharts
+- Python FastAPI backend with SQLite persistence for scan history, deployed via Docker on Railway
+- Live: [safe-grain-beras.vercel.app](https://safe-grain-beras.vercel.app) | Repository: [SAFE-GRAIN-BERAS](https://github.com/vlahadiqa/SAFE-GRAIN-BERAS)
 
-#### 🌐 [QuranLink](https://github.com/vlahadiqa/QuranLink)
-> Web application to connect and explore Quranic verses with an intuitive, clean, and responsive user experience.
-- Interactive dashboard built with HTML5, CSS3, and JavaScript
-- Features search and read capabilities for holy Quran verses
-- Responsive design for seamless mobile and desktop navigation
+#### 🎮 [Sambung Ayat](https://github.com/vlahadiqa/Sambung-Ayat)
+> Web-based game to practice and complete Juz Amma Quranic verses.
+- Interactive gamified interface for memorizing and connecting Juz Amma verses
+- Clean UI built with HTML5, Tailwind CSS, and Vanilla JavaScript
+- Integrated mobile-friendly drag-and-drop actions using DragDropTouch library
+- Built-in personal high scores, gameplay tutorial, and leaderboard views
 
 ---
 
