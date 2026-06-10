@@ -44,17 +44,18 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 
 ### 🚀 Featured Projects
 
-#### 🌐 [QuranLink](https://github.com/vlahadiqa/QuranLink)
-> A web application designed to connect and explore Quranic verses with an intuitive, clean, and responsive user experience.
-- **Tech Stack**: HTML5, CSS3, JavaScript
+#### 💰 [ModalIn — AI Credit Scoring for UMKM](https://modalin-app-eta.vercel.app)
+> Full-stack AI platform for alternative credit scoring of Indonesian MSMEs.
+- Neural Network (Keras) generating credit scores of 100–900 based on the 4C framework
+- Real-time detection of 7 types of cash flow anomalies
+- Microservice architecture: React + Express.js + FastAPI + Streamlit
+- Live: [modalin-app-eta.vercel.app](https://modalin-app-eta.vercel.app)
 
-#### 🌾 [SAFE-GRAIN-BERAS](https://github.com/vlahadiqa/SAFE-GRAIN-BERAS)
-> An inventory monitoring system built to track and manage grain and rice storage conditions safely and efficiently.
-- **Tech Stack**: HTML5, CSS3, JavaScript
-
-#### 💰 [Modalin App](https://github.com/vlahadiqa) *(Ongoing)*
-> A micro-funding web application aimed at empowering local small businesses (UMKM) through financial resource connection.
-- **Tech Stack**: JavaScript, Node.js, REST APIs
+#### 🌾 [Smart Rice Detector](https://github.com/vlahadiqa/SAFE-GRAIN-BERAS)
+> Rice quality detection using Computer Vision.
+- Computer Vision model to analyze grain characteristics, defects, and purity
+- Real-time classification of rice quality grades based on visual features
+- Interactive dashboard built with HTML5, CSS3, and JavaScript for analysis results
 
 ---
 
