@@ -26,6 +26,11 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+#### 💻 Front End Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+</p>
+
 #### ⚙️ Back End & API
 <p align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -57,6 +62,12 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 - Real-time classification of rice quality grades based on visual features
 - Interactive dashboard built with HTML5, CSS3, and JavaScript for analysis results
 
+#### 🌐 [QuranLink](https://github.com/vlahadiqa/QuranLink)
+> Web application to connect and explore Quranic verses with an intuitive, clean, and responsive user experience.
+- Interactive dashboard built with HTML5, CSS3, and JavaScript
+- Features search and read capabilities for holy Quran verses
+- Responsive design for seamless mobile and desktop navigation
+
 ---
 
 ### 📊 Most Used Languages
@@ -70,7 +81,7 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vlahadiqa-r-k-w-03670b3aa" target="_blank">
+  <a href="https://www.linkedin.com/in/vlahadiqa-r-k-w-03670b3aa/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/vlahadiqa_" target="_blank">
