@@ -1,9 +1,5 @@
 # Hi there! I'm Vlahadiqa Runayasha Khandeva Wardana👋
 
-<p align="center">
-  <img src="banner.png" alt="Vlahadiqa Runayasha Banner" width="100%">
-</p>
-
 I am an **Informatics Engineering (Teknik Informatika)** student at **Universitas Muhammadiyah Surabaya**, focusing on Web Development and software engineering. I am passionate about building modern, clean, and user-centric web applications, writing efficient code, and solving real-world problems.
 
 ---
