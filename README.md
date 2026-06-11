@@ -30,6 +30,7 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 #### 💻 Front End Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
 #### ⚙️ Back End, API & Databases
@@ -38,6 +39,7 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="ExpressJS" />
   <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 #### 🔧 Tools & Platforms
