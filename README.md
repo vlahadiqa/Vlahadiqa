@@ -1,4 +1,4 @@
-# Hi there! I'm Vlahadiqa Runayasha 👋
+# Hi there! I'm Vlahadiqa Runayasha Khandeva Wardana👋
 
 <p align="center">
   <img src="banner.png" alt="Vlahadiqa Runayasha Banner" width="100%">
