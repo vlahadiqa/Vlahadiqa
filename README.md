@@ -24,6 +24,7 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 #### 💻 Front End Frameworks & Libraries
@@ -31,11 +32,12 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
-#### ⚙️ Back End & API
+#### ⚙️ Back End, API & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="ExpressJS" />
   <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 #### 🔧 Tools & Platforms
@@ -43,6 +45,10 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/railway-%23131415.svg?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/XAMPP-%23F37023.svg?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Laragon-%230E83CD.svg?style=flat-square&logo=laragon&logoColor=white" alt="Laragon" />
 </p>
 
 ---
