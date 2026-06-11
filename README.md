@@ -70,6 +70,13 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 - Integrated mobile-friendly drag-and-drop actions using DragDropTouch library
 - Built-in personal high scores, gameplay tutorial, and leaderboard views
 
+#### 🔌 [SNIPIFY — YouTube Lyrics Saver](https://snipify-landing.vercel.app/)
+> Chrome Extension to transform YouTube music moments into cinematic lyric canvas graphics.
+- **Manifest V3 Extension**: Injects custom button into YouTube UI, auto-syncing lyrics with millisecond precision via LRCLIB
+- **Rich Canvas Editor**: 19 cinematic color themes, 16 procedural background shapes, 69 fonts, and film grain noise effects
+- **High-Quality Export**: Native client-side rendering up to 4x scale (4320×7680px) with 13 social media presets (Instagram, TikTok, Twitter)
+- Live: [snipify-landing.vercel.app](https://snipify-landing.vercel.app/) | Repository: [Snipify-Landing](https://github.com/vlahadiqa/Snipify-Landing)
+
 ---
 
 ### 📊 Most Used Languages
