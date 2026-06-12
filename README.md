@@ -53,12 +53,12 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 
 ### 🚀 Featured Projects
 
-#### 💰 [ModalIn — AI Credit Scoring for UMKM](https://modalin-app-eta.vercel.app)
-> Full-stack AI platform for alternative credit scoring of Indonesian MSMEs.
-- Neural Network (Keras) generating credit scores of 100–900 based on the 4C framework
-- Real-time detection of 7 types of cash flow anomalies
-- Microservice architecture: React + Express.js + FastAPI + Streamlit
-- Live: [modalin-app-eta.vercel.app](https://modalin-app-eta.vercel.app)
+#### 💸 [Emerald — Personal Expense Tracker](https://money-tracker-emerald.vercel.app)
+> Minimalist web application designed to instantly record and track daily expense transactions.
+- Modern apple-style Glassmorphism UI fully optimized for mobile devices (Mobile-First mindset)
+- Serverless JAMstack architecture leveraging dynamic client-side JS integrations and calculations
+- Serverless database backend powered by Supabase with Row Level Security (RLS) policies
+- Live: [money-tracker-emerald.vercel.app](https://money-tracker-emerald.vercel.app) | Repository: [MoneyTracker-Emerald](https://github.com/vlahadiqa/MoneyTracker-Emerald)
 
 #### 🌾 [Smart Rice Detector](https://safe-grain-beras.vercel.app)
 > AI-powered rice quality analysis system using YOLOv8, FastAPI, and React.
