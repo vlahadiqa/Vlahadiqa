@@ -2,6 +2,12 @@
 
 I am an **Informatics Engineering (Teknik Informatika)** student at **Universitas Muhammadiyah Surabaya**, focusing on Web Development and software engineering. I am passionate about building modern, clean, and user-centric web applications, writing efficient code, and solving real-world problems.
 
+<br>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=vlahadiqa&style=flat-square&color=6366f1&label=visitors)
+
+</div>
+
 ---
 
 ### 💫 About Me
