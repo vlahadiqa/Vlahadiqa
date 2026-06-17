@@ -73,7 +73,7 @@ I am an **Informatics Engineering (Teknik Informatika)** student at **Universita
 - Python FastAPI backend with SQLite persistence for scan history, deployed via Docker on Railway
 - Live: [safe-grain-beras.vercel.app](https://safe-grain-beras.vercel.app) | Repository: [SAFE-GRAIN-BERAS](https://github.com/vlahadiqa/SAFE-GRAIN-BERAS)
 
-#### 🎮 [Sambung Ayat](https://github.com/vlahadiqa/Sambung-Ayat)
+#### 🎮 [QuranLink](https://github.com/vlahadiqa/QuranLink)
 > Web-based game to practice and complete Juz Amma Quranic verses.
 - Interactive gamified interface for memorizing and connecting Juz Amma verses
 - Clean UI built with HTML5, Tailwind CSS, and Vanilla JavaScript
